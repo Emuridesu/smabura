@@ -1,0 +1,915 @@
+<html>
+<head>
+<meta charset="UTF-8">
+
+<title></title>
+</head>
+<body>  <h1 class="TOP"><a href="smash.HTML" ><img src="images/TOP.png" width="200" height="100"></a></h1>                       
+<head><link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+  
+  <script type="text/javascript">
+          $(document).ready(function(){
+              $('.slider').bxSlider({
+                  auto: true,
+                  pause: 5000,
+              });
+          });
+  </script>
+  </head>                                                       
+<div class="slider">
+    <img src="../html/images/E6Kz2S8VgAEOrpC.jfif" width="250" height="1000" alt="">
+    <img src="../html/images/Ezi2hpWUYAAEWhQ.jfif" width="250" height="1000" alt="">
+    <img src="../html/images/E9ObHDiVkAc_a9E.jfif" width="250" height="1000" alt="">
+    <img src="../html/images/E6Kz2TXVoAAYcfp.jfif" width="250" height="1000" alt="">
+    </div>
+    <link rel="stylesheet" href="css/aik.css"> 
+<h1><a href=""><img src="" alt=""></a></h1>
+
+<h2>の情報まとめ</h2>
+<p>の強い行動</p>
+<nav class="nav">
+    <ul class="ul">
+    <li class="mario"><a href="マリオ.html" target=_blank><img src="images/62da33dbb79c871be227fb1b7f8788cb-min.png" alt="マリオ"　width="400" height="225"></a></li>
+    <li class="mario"><a href="donkey.HTML"><img src="images/show.jfif" alt="ドンキーコング"　width="400" height="225"></a></li></li>
+    <li class="mario"><a href="rink.html"><img src="images/OIP.jfif" alt="リンク" width="400" height="200"></li>
+    <li class="mario"><a href="samus.html"><img src="images/show.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="dark samus.html"><img src="images/maxresdefault.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="yossy.html"><img src="images/show.png" width="400" height="200"></li>
+    <li class="mario"><a href="kirby.html"><img src="images/show (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="fox.html"><img src="images/show (2).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pikachu.html"><img src="images/show (3).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="luigi.html"><img src="images/show (4).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ness.html"><img src="images/show (5).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="capten falcon.html"><img src="images/show (6).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="purin.html"><img src="images/show (7).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="peach.html"><img src="images/show (8).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="deigy.html"><img src="images/show (9).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="koppa.html"><img src="images/show (10).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ice climber.html"><img src="images/show (11).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="seek.html"><img src="images/show (12).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="zeruda.html"><img src="images/show (13).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="doctor mario.html"><img src="images/show (14).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pichu.html"><img src="images/show (15).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="falco.html"><img src="images/show (16).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="marth.html"><img src="images/show (17).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="rukina.html"><img src="images/rectangle_large_type_2_85ffc492585cacdbf681cd6c3cacc221.jpeg" width="400" height="200"></li>
+    <li class="mario"><a href="young link.html"><img src="images/show (18).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ganondorof.html"><img src="images/show (19).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="mewtwo.html"><img src="images/show (20).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="roy.html"><img src="images/show (21).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="chrom.html"><img src="images/chrom.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="mistergame&watch.html"><img src="images/show (22).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="meta knight.html"><img src="images/show (23).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pit.html"><img src="images/pit.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="blac kpit.html"><img src="images/maxresdefault-28.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="zero suitsamus.html"><img src="images/show (24).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="wario.html"><img src="images/wario.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sneek.html"><img src="images/show (25).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="aik.html"><img src="images/show (26).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pokemon trainer.html"><img src="images/show (27).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="didi kong.html"><img src="images/show (28).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ryuka.html"><img src="images/show (29).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sonik.html"><img src="images/sonik.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="dedede.html"><img src="images/show (30).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pikumin & orimer.html"><img src="images/show (31).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="rukario.html"><img src="images/show (32).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="robot.html"><img src="images/show (33).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="toon link.html"><img src="images/show (34).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="wolf.html"><img src="images/show (35).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="murabito.html"><img src="images/show (36).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="mega man.html"><img src="images/show (37).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="wiisport trainer.html"><img src="images/maxresdefault (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="rosetta&tiko.html"><img src="images/show (38).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="little mac.html"><img src="images/ダウンロード (4).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="gekkouga.html"><img src="images/show (39).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="paltena.html"><img src="images/show (40).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pac-man.html"><img src="images/show (41).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="robin.html"><img src="images/show (42).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="shulk.html"><img src="images/show (43).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="koopa.jr.html"><img src="images/show (44).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="duck hurt.html"><img src="images/show (45).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ryu.html"><img src="images/show (46).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ken.html"><img src="images/maxresdefault (2).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="cloudo.html"><img src="images/show (47).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="korrin.html"><img src="images/show (48).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="bayonetta.html"><img src="images/show (49).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ink ring.html"><img src="images/show (50).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ridley.html"><img src="images/show (51).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="simon.html"><img src="images/show (52).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="richter.html"><img src="images/maxresdefault-62.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="king・k・rool.html"><img src="images/show (53).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sizue.html"><img src="images/maxresdefault (3).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="incineroar.html"><img src="images/maxresdefault (4).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="joker.html"><img src="images/01.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="hero.html"><img src="images/show (54).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="banjo&kazooie.html"><img src="images/show (55).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="terry bogard.html"><img src="images/ssbu__dlc_terry_bogard.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="beleth.html"><img src="images/1.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="minmin.html"><img src="images/1 (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="steve.html"><img src="images/show (56).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sephiroth.html"><img src="images/show (57).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pyra/mythra.html"><img src="images/images.jpg" width="400" height="200"></li>
+    <li class="mario"><a href=".html"><img src="" width="400" height="200"></li>
+<main>
+    <h2>新キャラが追加されました</h2>  
+</main>
+</body>
+</html>{
+<html>
+<head>
+<meta charset="UTF-8">
+
+<title></title>
+</head>
+<body>  <h1 class="TOP"><a href="smash.HTML" ><img src="images/TOP.png" width="200" height="100"></a></h1>                       
+<head><link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+  
+  <script type="text/javascript">
+          $(document).ready(function(){
+              $('.slider').bxSlider({
+                  auto: true,
+                  pause: 5000,
+              });
+          });
+  </script>
+  </head>                                                       
+<div class="slider">
+    <img src="../html/images/E6Kz2S8VgAEOrpC.jfif" width="250" height="1000" alt="">
+    <img src="../html/images/Ezi2hpWUYAAEWhQ.jfif" width="250" height="1000" alt="">
+    <img src="../html/images/E9ObHDiVkAc_a9E.jfif" width="250" height="1000" alt="">
+    <img src="../html/images/E6Kz2TXVoAAYcfp.jfif" width="250" height="1000" alt="">
+    </div>
+    <link rel="stylesheet" href="css/aik.css"> 
+<h1><a href=""><img src="" alt=""></a></h1>
+
+<h2>の情報まとめ</h2>
+<p>の強い行動</p>
+<nav class="nav">
+    <ul class="ul">
+    <li class="mario"><a href="マリオ.html" target=_blank><img src="images/62da33dbb79c871be227fb1b7f8788cb-min.png" alt="マリオ"　width="400" height="225"></a></li>
+    <li class="mario"><a href="donkey.HTML"><img src="images/show.jfif" alt="ドンキーコング"　width="400" height="225"></a></li></li>
+    <li class="mario"><a href="rink.html"><img src="images/OIP.jfif" alt="リンク" width="400" height="200"></li>
+    <li class="mario"><a href="samus.html"><img src="images/show.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="dark samus.html"><img src="images/maxresdefault.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="yossy.html"><img src="images/show.png" width="400" height="200"></li>
+    <li class="mario"><a href="kirby.html"><img src="images/show (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="fox.html"><img src="images/show (2).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pikachu.html"><img src="images/show (3).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="luigi.html"><img src="images/show (4).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ness.html"><img src="images/show (5).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="capten falcon.html"><img src="images/show (6).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="purin.html"><img src="images/show (7).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="peach.html"><img src="images/show (8).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="deigy.html"><img src="images/show (9).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="koppa.html"><img src="images/show (10).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ice climber.html"><img src="images/show (11).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="seek.html"><img src="images/show (12).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="zeruda.html"><img src="images/show (13).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="doctor mario.html"><img src="images/show (14).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pichu.html"><img src="images/show (15).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="falco.html"><img src="images/show (16).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="marth.html"><img src="images/show (17).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="rukina.html"><img src="images/rectangle_large_type_2_85ffc492585cacdbf681cd6c3cacc221.jpeg" width="400" height="200"></li>
+    <li class="mario"><a href="young link.html"><img src="images/show (18).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ganondorof.html"><img src="images/show (19).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="mewtwo.html"><img src="images/show (20).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="roy.html"><img src="images/show (21).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="chrom.html"><img src="images/chrom.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="mistergame&watch.html"><img src="images/show (22).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="meta knight.html"><img src="images/show (23).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pit.html"><img src="images/pit.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="blac kpit.html"><img src="images/maxresdefault-28.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="zero suitsamus.html"><img src="images/show (24).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="wario.html"><img src="images/wario.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sneek.html"><img src="images/show (25).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="aik.html"><img src="images/show (26).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pokemon trainer.html"><img src="images/show (27).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="didi kong.html"><img src="images/show (28).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ryuka.html"><img src="images/show (29).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sonik.html"><img src="images/sonik.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="dedede.html"><img src="images/show (30).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pikumin & orimer.html"><img src="images/show (31).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="rukario.html"><img src="images/show (32).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="robot.html"><img src="images/show (33).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="toon link.html"><img src="images/show (34).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="wolf.html"><img src="images/show (35).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="murabito.html"><img src="images/show (36).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="mega man.html"><img src="images/show (37).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="wiisport trainer.html"><img src="images/maxresdefault (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="rosetta&tiko.html"><img src="images/show (38).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="little mac.html"><img src="images/ダウンロード (4).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="gekkouga.html"><img src="images/show (39).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="paltena.html"><img src="images/show (40).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pac-man.html"><img src="images/show (41).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="robin.html"><img src="images/show (42).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="shulk.html"><img src="images/show (43).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="koopa.jr.html"><img src="images/show (44).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="duck hurt.html"><img src="images/show (45).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ryu.html"><img src="images/show (46).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ken.html"><img src="images/maxresdefault (2).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="cloudo.html"><img src="images/show (47).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="korrin.html"><img src="images/show (48).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="bayonetta.html"><img src="images/show (49).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ink ring.html"><img src="images/show (50).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ridley.html"><img src="images/show (51).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="simon.html"><img src="images/show (52).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="richter.html"><img src="images/maxresdefault-62.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="king・k・rool.html"><img src="images/show (53).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sizue.html"><img src="images/maxresdefault (3).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="incineroar.html"><img src="images/maxresdefault (4).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="joker.html"><img src="images/01.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="hero.html"><img src="images/show (54).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="banjo&kazooie.html"><img src="images/show (55).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="terry bogard.html"><img src="images/ssbu__dlc_terry_bogard.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="beleth.html"><img src="images/1.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="minmin.html"><img src="images/1 (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="steve.html"><img src="images/show (56).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sephiroth.html"><img src="images/show (57).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pyra/mythra.html"><img src="images/images.jpg" width="400" height="200"></li>
+    <li class="mario"><a href=".html"><img src="" width="400" height="200"></li>
+<main>
+    <h2>新キャラが追加されました</h2>  
+</main>
+</body>
+</html>    "editor.suggestSelection": "first",
+<html>
+<head>
+<meta charset="UTF-8">
+
+<title></title>
+</head>
+<body>  <h1 class="TOP"><a href="smash.HTML" ><img src="images/TOP.png" width="200" height="100"></a></h1>                       
+<head><link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+  
+  <script type="text/javascript">
+          $(document).ready(function(){
+              $('.slider').bxSlider({
+                  auto: true,
+                  pause: 5000,
+              });
+          });
+  </script>
+  </head>                                                       
+<div class="slider">
+    <img src="../html/images/E6Kz2S8VgAEOrpC.jfif" width="250" height="1000" alt="">
+    <img src="../html/images/Ezi2hpWUYAAEWhQ.jfif" width="250" height="1000" alt="">
+    <img src="../html/images/E9ObHDiVkAc_a9E.jfif" width="250" height="1000" alt="">
+    <img src="../html/images/E6Kz2TXVoAAYcfp.jfif" width="250" height="1000" alt="">
+    </div>
+    <link rel="stylesheet" href="css/aik.css"> 
+<h1><a href=""><img src="" alt=""></a></h1>
+
+<h2>の情報まとめ</h2>
+<p>の強い行動</p>
+<nav class="nav">
+    <ul class="ul">
+    <li class="mario"><a href="マリオ.html" target=_blank><img src="images/62da33dbb79c871be227fb1b7f8788cb-min.png" alt="マリオ"　width="400" height="225"></a></li>
+    <li class="mario"><a href="donkey.HTML"><img src="images/show.jfif" alt="ドンキーコング"　width="400" height="225"></a></li></li>
+    <li class="mario"><a href="rink.html"><img src="images/OIP.jfif" alt="リンク" width="400" height="200"></li>
+    <li class="mario"><a href="samus.html"><img src="images/show.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="dark samus.html"><img src="images/maxresdefault.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="yossy.html"><img src="images/show.png" width="400" height="200"></li>
+    <li class="mario"><a href="kirby.html"><img src="images/show (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="fox.html"><img src="images/show (2).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pikachu.html"><img src="images/show (3).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="luigi.html"><img src="images/show (4).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ness.html"><img src="images/show (5).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="capten falcon.html"><img src="images/show (6).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="purin.html"><img src="images/show (7).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="peach.html"><img src="images/show (8).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="deigy.html"><img src="images/show (9).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="koppa.html"><img src="images/show (10).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ice climber.html"><img src="images/show (11).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="seek.html"><img src="images/show (12).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="zeruda.html"><img src="images/show (13).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="doctor mario.html"><img src="images/show (14).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pichu.html"><img src="images/show (15).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="falco.html"><img src="images/show (16).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="marth.html"><img src="images/show (17).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="rukina.html"><img src="images/rectangle_large_type_2_85ffc492585cacdbf681cd6c3cacc221.jpeg" width="400" height="200"></li>
+    <li class="mario"><a href="young link.html"><img src="images/show (18).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ganondorof.html"><img src="images/show (19).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="mewtwo.html"><img src="images/show (20).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="roy.html"><img src="images/show (21).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="chrom.html"><img src="images/chrom.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="mistergame&watch.html"><img src="images/show (22).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="meta knight.html"><img src="images/show (23).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pit.html"><img src="images/pit.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="blac kpit.html"><img src="images/maxresdefault-28.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="zero suitsamus.html"><img src="images/show (24).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="wario.html"><img src="images/wario.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sneek.html"><img src="images/show (25).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="aik.html"><img src="images/show (26).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pokemon trainer.html"><img src="images/show (27).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="didi kong.html"><img src="images/show (28).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ryuka.html"><img src="images/show (29).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sonik.html"><img src="images/sonik.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="dedede.html"><img src="images/show (30).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pikumin & orimer.html"><img src="images/show (31).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="rukario.html"><img src="images/show (32).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="robot.html"><img src="images/show (33).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="toon link.html"><img src="images/show (34).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="wolf.html"><img src="images/show (35).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="murabito.html"><img src="images/show (36).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="mega man.html"><img src="images/show (37).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="wiisport trainer.html"><img src="images/maxresdefault (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="rosetta&tiko.html"><img src="images/show (38).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="little mac.html"><img src="images/ダウンロード (4).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="gekkouga.html"><img src="images/show (39).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="paltena.html"><img src="images/show (40).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pac-man.html"><img src="images/show (41).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="robin.html"><img src="images/show (42).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="shulk.html"><img src="images/show (43).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="koopa.jr.html"><img src="images/show (44).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="duck hurt.html"><img src="images/show (45).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ryu.html"><img src="images/show (46).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ken.html"><img src="images/maxresdefault (2).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="cloudo.html"><img src="images/show (47).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="korrin.html"><img src="images/show (48).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="bayonetta.html"><img src="images/show (49).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ink ring.html"><img src="images/show (50).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ridley.html"><img src="images/show (51).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="simon.html"><img src="images/show (52).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="richter.html"><img src="images/maxresdefault-62.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="king・k・rool.html"><img src="images/show (53).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sizue.html"><img src="images/maxresdefault (3).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="incineroar.html"><img src="images/maxresdefault (4).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="joker.html"><img src="images/01.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="hero.html"><img src="images/show (54).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="banjo&kazooie.html"><img src="images/show (55).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="terry bogard.html"><img src="images/ssbu__dlc_terry_bogard.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="beleth.html"><img src="images/1.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="minmin.html"><img src="images/1 (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="steve.html"><img src="images/show (56).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sephiroth.html"><img src="images/show (57).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pyra/mythra.html"><img src="images/images.jpg" width="400" height="200"></li>
+    <li class="mario"><a href=".html"><img src="" width="400" height="200"></li>
+<main>
+    <h2>新キャラが追加されました</h2>  
+</main>
+</body>
+</html>    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+<html>
+<head>
+<meta charset="UTF-8">
+
+<title></title>
+</head>
+<body>  <h1 class="TOP"><a href="smash.HTML" ><img src="images/TOP.png" width="200" height="100"></a></h1>                       
+<head><link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+  
+  <script type="text/javascript">
+          $(document).ready(function(){
+              $('.slider').bxSlider({
+                  auto: true,
+                  pause: 5000,
+              });
+          });
+  </script>
+  </head>                                                       
+<div class="slider">
+    <img src="../html/images/E6Kz2S8VgAEOrpC.jfif" width="250" height="1000" alt="">
+    <img src="../html/images/Ezi2hpWUYAAEWhQ.jfif" width="250" height="1000" alt="">
+    <img src="../html/images/E9ObHDiVkAc_a9E.jfif" width="250" height="1000" alt="">
+    <img src="../html/images/E6Kz2TXVoAAYcfp.jfif" width="250" height="1000" alt="">
+    </div>
+    <link rel="stylesheet" href="css/aik.css"> 
+<h1><a href=""><img src="" alt=""></a></h1>
+
+<h2>の情報まとめ</h2>
+<p>の強い行動</p>
+<nav class="nav">
+    <ul class="ul">
+    <li class="mario"><a href="マリオ.html" target=_blank><img src="images/62da33dbb79c871be227fb1b7f8788cb-min.png" alt="マリオ"　width="400" height="225"></a></li>
+    <li class="mario"><a href="donkey.HTML"><img src="images/show.jfif" alt="ドンキーコング"　width="400" height="225"></a></li></li>
+    <li class="mario"><a href="rink.html"><img src="images/OIP.jfif" alt="リンク" width="400" height="200"></li>
+    <li class="mario"><a href="samus.html"><img src="images/show.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="dark samus.html"><img src="images/maxresdefault.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="yossy.html"><img src="images/show.png" width="400" height="200"></li>
+    <li class="mario"><a href="kirby.html"><img src="images/show (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="fox.html"><img src="images/show (2).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pikachu.html"><img src="images/show (3).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="luigi.html"><img src="images/show (4).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ness.html"><img src="images/show (5).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="capten falcon.html"><img src="images/show (6).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="purin.html"><img src="images/show (7).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="peach.html"><img src="images/show (8).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="deigy.html"><img src="images/show (9).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="koppa.html"><img src="images/show (10).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ice climber.html"><img src="images/show (11).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="seek.html"><img src="images/show (12).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="zeruda.html"><img src="images/show (13).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="doctor mario.html"><img src="images/show (14).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pichu.html"><img src="images/show (15).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="falco.html"><img src="images/show (16).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="marth.html"><img src="images/show (17).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="rukina.html"><img src="images/rectangle_large_type_2_85ffc492585cacdbf681cd6c3cacc221.jpeg" width="400" height="200"></li>
+    <li class="mario"><a href="young link.html"><img src="images/show (18).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ganondorof.html"><img src="images/show (19).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="mewtwo.html"><img src="images/show (20).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="roy.html"><img src="images/show (21).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="chrom.html"><img src="images/chrom.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="mistergame&watch.html"><img src="images/show (22).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="meta knight.html"><img src="images/show (23).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pit.html"><img src="images/pit.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="blac kpit.html"><img src="images/maxresdefault-28.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="zero suitsamus.html"><img src="images/show (24).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="wario.html"><img src="images/wario.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sneek.html"><img src="images/show (25).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="aik.html"><img src="images/show (26).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pokemon trainer.html"><img src="images/show (27).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="didi kong.html"><img src="images/show (28).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ryuka.html"><img src="images/show (29).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sonik.html"><img src="images/sonik.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="dedede.html"><img src="images/show (30).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pikumin & orimer.html"><img src="images/show (31).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="rukario.html"><img src="images/show (32).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="robot.html"><img src="images/show (33).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="toon link.html"><img src="images/show (34).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="wolf.html"><img src="images/show (35).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="murabito.html"><img src="images/show (36).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="mega man.html"><img src="images/show (37).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="wiisport trainer.html"><img src="images/maxresdefault (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="rosetta&tiko.html"><img src="images/show (38).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="little mac.html"><img src="images/ダウンロード (4).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="gekkouga.html"><img src="images/show (39).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="paltena.html"><img src="images/show (40).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pac-man.html"><img src="images/show (41).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="robin.html"><img src="images/show (42).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="shulk.html"><img src="images/show (43).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="koopa.jr.html"><img src="images/show (44).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="duck hurt.html"><img src="images/show (45).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ryu.html"><img src="images/show (46).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ken.html"><img src="images/maxresdefault (2).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="cloudo.html"><img src="images/show (47).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="korrin.html"><img src="images/show (48).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="bayonetta.html"><img src="images/show (49).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ink ring.html"><img src="images/show (50).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ridley.html"><img src="images/show (51).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="simon.html"><img src="images/show (52).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="richter.html"><img src="images/maxresdefault-62.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="king・k・rool.html"><img src="images/show (53).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sizue.html"><img src="images/maxresdefault (3).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="incineroar.html"><img src="images/maxresdefault (4).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="joker.html"><img src="images/01.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="hero.html"><img src="images/show (54).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="banjo&kazooie.html"><img src="images/show (55).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="terry bogard.html"><img src="images/ssbu__dlc_terry_bogard.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="beleth.html"><img src="images/1.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="minmin.html"><img src="images/1 (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="steve.html"><img src="images/show (56).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sephiroth.html"><img src="images/show (57).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pyra/mythra.html"><img src="images/images.jpg" width="400" height="200"></li>
+    <li class="mario"><a href=".html"><img src="" width="400" height="200"></li>
+<main>
+    <h2>新キャラが追加されました</h2>  
+</main>
+</body>
+</html>    "[json]": {
+<html>
+<head>
+<meta charset="UTF-8">
+
+<title></title>
+</head>
+<body>  <h1 class="TOP"><a href="smash.HTML" ><img src="images/TOP.png" width="200" height="100"></a></h1>                       
+<head><link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+  
+  <script type="text/javascript">
+          $(document).ready(function(){
+              $('.slider').bxSlider({
+                  auto: true,
+                  pause: 5000,
+              });
+          });
+  </script>
+  </head>                                                       
+<div class="slider">
+    <img src="../html/images/E6Kz2S8VgAEOrpC.jfif" width="250" height="1000" alt="">
+    <img src="../html/images/Ezi2hpWUYAAEWhQ.jfif" width="250" height="1000" alt="">
+    <img src="../html/images/E9ObHDiVkAc_a9E.jfif" width="250" height="1000" alt="">
+    <img src="../html/images/E6Kz2TXVoAAYcfp.jfif" width="250" height="1000" alt="">
+    </div>
+    <link rel="stylesheet" href="css/aik.css"> 
+<h1><a href=""><img src="" alt=""></a></h1>
+
+<h2>の情報まとめ</h2>
+<p>の強い行動</p>
+<nav class="nav">
+    <ul class="ul">
+    <li class="mario"><a href="マリオ.html" target=_blank><img src="images/62da33dbb79c871be227fb1b7f8788cb-min.png" alt="マリオ"　width="400" height="225"></a></li>
+    <li class="mario"><a href="donkey.HTML"><img src="images/show.jfif" alt="ドンキーコング"　width="400" height="225"></a></li></li>
+    <li class="mario"><a href="rink.html"><img src="images/OIP.jfif" alt="リンク" width="400" height="200"></li>
+    <li class="mario"><a href="samus.html"><img src="images/show.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="dark samus.html"><img src="images/maxresdefault.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="yossy.html"><img src="images/show.png" width="400" height="200"></li>
+    <li class="mario"><a href="kirby.html"><img src="images/show (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="fox.html"><img src="images/show (2).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pikachu.html"><img src="images/show (3).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="luigi.html"><img src="images/show (4).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ness.html"><img src="images/show (5).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="capten falcon.html"><img src="images/show (6).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="purin.html"><img src="images/show (7).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="peach.html"><img src="images/show (8).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="deigy.html"><img src="images/show (9).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="koppa.html"><img src="images/show (10).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ice climber.html"><img src="images/show (11).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="seek.html"><img src="images/show (12).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="zeruda.html"><img src="images/show (13).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="doctor mario.html"><img src="images/show (14).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pichu.html"><img src="images/show (15).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="falco.html"><img src="images/show (16).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="marth.html"><img src="images/show (17).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="rukina.html"><img src="images/rectangle_large_type_2_85ffc492585cacdbf681cd6c3cacc221.jpeg" width="400" height="200"></li>
+    <li class="mario"><a href="young link.html"><img src="images/show (18).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ganondorof.html"><img src="images/show (19).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="mewtwo.html"><img src="images/show (20).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="roy.html"><img src="images/show (21).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="chrom.html"><img src="images/chrom.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="mistergame&watch.html"><img src="images/show (22).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="meta knight.html"><img src="images/show (23).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pit.html"><img src="images/pit.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="blac kpit.html"><img src="images/maxresdefault-28.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="zero suitsamus.html"><img src="images/show (24).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="wario.html"><img src="images/wario.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sneek.html"><img src="images/show (25).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="aik.html"><img src="images/show (26).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pokemon trainer.html"><img src="images/show (27).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="didi kong.html"><img src="images/show (28).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ryuka.html"><img src="images/show (29).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sonik.html"><img src="images/sonik.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="dedede.html"><img src="images/show (30).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pikumin & orimer.html"><img src="images/show (31).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="rukario.html"><img src="images/show (32).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="robot.html"><img src="images/show (33).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="toon link.html"><img src="images/show (34).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="wolf.html"><img src="images/show (35).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="murabito.html"><img src="images/show (36).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="mega man.html"><img src="images/show (37).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="wiisport trainer.html"><img src="images/maxresdefault (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="rosetta&tiko.html"><img src="images/show (38).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="little mac.html"><img src="images/ダウンロード (4).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="gekkouga.html"><img src="images/show (39).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="paltena.html"><img src="images/show (40).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pac-man.html"><img src="images/show (41).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="robin.html"><img src="images/show (42).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="shulk.html"><img src="images/show (43).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="koopa.jr.html"><img src="images/show (44).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="duck hurt.html"><img src="images/show (45).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ryu.html"><img src="images/show (46).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ken.html"><img src="images/maxresdefault (2).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="cloudo.html"><img src="images/show (47).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="korrin.html"><img src="images/show (48).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="bayonetta.html"><img src="images/show (49).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ink ring.html"><img src="images/show (50).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ridley.html"><img src="images/show (51).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="simon.html"><img src="images/show (52).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="richter.html"><img src="images/maxresdefault-62.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="king・k・rool.html"><img src="images/show (53).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sizue.html"><img src="images/maxresdefault (3).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="incineroar.html"><img src="images/maxresdefault (4).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="joker.html"><img src="images/01.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="hero.html"><img src="images/show (54).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="banjo&kazooie.html"><img src="images/show (55).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="terry bogard.html"><img src="images/ssbu__dlc_terry_bogard.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="beleth.html"><img src="images/1.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="minmin.html"><img src="images/1 (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="steve.html"><img src="images/show (56).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sephiroth.html"><img src="images/show (57).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pyra/mythra.html"><img src="images/images.jpg" width="400" height="200"></li>
+    <li class="mario"><a href=".html"><img src="" width="400" height="200"></li>
+<main>
+    <h2>新キャラが追加されました</h2>  
+</main>
+</body>
+</html>        "editor.defaultFormatter": "esbenp.prettier-vscode"
+<html>
+<head>
+<meta charset="UTF-8">
+
+<title></title>
+</head>
+<body>  <h1 class="TOP"><a href="smash.HTML" ><img src="images/TOP.png" width="200" height="100"></a></h1>                       
+<head><link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+  
+  <script type="text/javascript">
+          $(document).ready(function(){
+              $('.slider').bxSlider({
+                  auto: true,
+                  pause: 5000,
+              });
+          });
+  </script>
+  </head>                                                       
+<div class="slider">
+    <img src="../html/images/E6Kz2S8VgAEOrpC.jfif" width="250" height="1000" alt="">
+    <img src="../html/images/Ezi2hpWUYAAEWhQ.jfif" width="250" height="1000" alt="">
+    <img src="../html/images/E9ObHDiVkAc_a9E.jfif" width="250" height="1000" alt="">
+    <img src="../html/images/E6Kz2TXVoAAYcfp.jfif" width="250" height="1000" alt="">
+    </div>
+    <link rel="stylesheet" href="css/aik.css"> 
+<h1><a href=""><img src="" alt=""></a></h1>
+
+<h2>の情報まとめ</h2>
+<p>の強い行動</p>
+<nav class="nav">
+    <ul class="ul">
+    <li class="mario"><a href="マリオ.html" target=_blank><img src="images/62da33dbb79c871be227fb1b7f8788cb-min.png" alt="マリオ"　width="400" height="225"></a></li>
+    <li class="mario"><a href="donkey.HTML"><img src="images/show.jfif" alt="ドンキーコング"　width="400" height="225"></a></li></li>
+    <li class="mario"><a href="rink.html"><img src="images/OIP.jfif" alt="リンク" width="400" height="200"></li>
+    <li class="mario"><a href="samus.html"><img src="images/show.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="dark samus.html"><img src="images/maxresdefault.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="yossy.html"><img src="images/show.png" width="400" height="200"></li>
+    <li class="mario"><a href="kirby.html"><img src="images/show (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="fox.html"><img src="images/show (2).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pikachu.html"><img src="images/show (3).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="luigi.html"><img src="images/show (4).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ness.html"><img src="images/show (5).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="capten falcon.html"><img src="images/show (6).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="purin.html"><img src="images/show (7).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="peach.html"><img src="images/show (8).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="deigy.html"><img src="images/show (9).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="koppa.html"><img src="images/show (10).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ice climber.html"><img src="images/show (11).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="seek.html"><img src="images/show (12).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="zeruda.html"><img src="images/show (13).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="doctor mario.html"><img src="images/show (14).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pichu.html"><img src="images/show (15).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="falco.html"><img src="images/show (16).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="marth.html"><img src="images/show (17).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="rukina.html"><img src="images/rectangle_large_type_2_85ffc492585cacdbf681cd6c3cacc221.jpeg" width="400" height="200"></li>
+    <li class="mario"><a href="young link.html"><img src="images/show (18).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ganondorof.html"><img src="images/show (19).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="mewtwo.html"><img src="images/show (20).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="roy.html"><img src="images/show (21).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="chrom.html"><img src="images/ダウンロード.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="mistergame&watch.html"><img src="images/show (22).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="meta knight.html"><img src="images/show (23).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pit.html"><img src="images/ダウンロード (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="blac kpit.html"><img src="images/maxresdefault-28.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="zero suitsamus.html"><img src="images/show (24).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="wario.html"><img src="images/ダウンロード (2).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sneek.html"><img src="images/show (25).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="aik.html"><img src="images/show (26).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pokemon trainer.html"><img src="images/show (27).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="didi kong.html"><img src="images/show (28).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ryuka.html"><img src="images/show (29).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sonik.html"><img src="images/ダウンロード (3).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="dedede.html"><img src="images/show (30).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pikumin & orimer.html"><img src="images/show (31).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="rukario.html"><img src="images/show (32).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="robot.html"><img src="images/show (33).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="toon link.html"><img src="images/show (34).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="wolf.html"><img src="images/show (35).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="murabito.html"><img src="images/show (36).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="mega man.html"><img src="images/show (37).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="wiisport trainer.html"><img src="images/maxresdefault (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="rosetta&tiko.html"><img src="images/show (38).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="little mac.html"><img src="images/ダウンロード (4).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="gekkouga.html"><img src="images/show (39).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="paltena.html"><img src="images/show (40).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pac-man.html"><img src="images/show (41).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="robin.html"><img src="images/show (42).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="shulk.html"><img src="images/show (43).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="koopa.jr.html"><img src="images/show (44).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="duck hurt.html"><img src="images/show (45).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ryu.html"><img src="images/show (46).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ken.html"><img src="images/maxresdefault (2).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="cloudo.html"><img src="images/show (47).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="korrin.html"><img src="images/show (48).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="bayonetta.html"><img src="images/show (49).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ink ring.html"><img src="images/show (50).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ridley.html"><img src="images/show (51).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="simon.html"><img src="images/show (52).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="richter.html"><img src="images/maxresdefault-62.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="king・k・rool.html"><img src="images/show (53).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sizue.html"><img src="images/maxresdefault (3).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="incineroar.html"><img src="images/maxresdefault (4).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="joker.html"><img src="images/01.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="hero.html"><img src="images/show (54).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="banjo&kazooie.html"><img src="images/show (55).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="terry bogard.html"><img src="images/ssbu__dlc_terry_bogard.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="beleth.html"><img src="images/1.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="minmin.html"><img src="images/1 (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="steve.html"><img src="images/show (56).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sephiroth.html"><img src="images/show (57).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pyra/mythra.html"><img src="images/images.jpg" width="400" height="200"></li>
+    <li class="mario"><a href=".html"><img src="" width="400" height="200"></li>
+<main>
+    <h2>新キャラが追加されました</h2>  
+</main>
+</body>
+</html>    },
+<html>
+<head>
+<meta ciarset="UTF-8">
+
+<title></title>
+</xea$>
+<body> |h1 class="TOp">>a href="smash.HTML" ><img �rc="imaods/TOP.png" width="000"!height=100"></a>>/l1>
+�    <link 2el="stylesheet" href="css/aik.css"> 
+<h1>�a href="">4img src="" alT="*></a></h1>
+
+<h2:の情報⁾とめ</h3>
+<p>ヮ強い�!�動</p>
+J,nav cla{s="nav >
+    <u| clacs="ul�>
+    <li class="mabio"><a href="ゞリオ.html" target=^bmank?<i�g src="images/62da33dbb79c871be227fb0b7f8788cb-m�n.png" !lp="ブリオ"　Width="�00  height=#225"></a6</li>
+    <li class-"mario"><a hpef="donkey.HTML"><Ymg src="ieages-show.jfif" alp="ドヱキボコング"　width="400" height="225"></a></li></li<
+    <li class="mario"><a href="riN{.html"><img src="images/OIP.jfif"�alt="リンクb width="480" height?"200"></li>
+    <li(class="mario"><a (ref= s!mUs.jtml">img src="imigeq/show.jpg" width="400" height="200"></li>
+    <lI class="mario"><a$hrEf="dark {amus.html*><mmf src="images/maxresdefault.jpg" width5"400" height="200"<</li>
+    �li class="mario"><a href="yossy.html"><img src="ima�es/show.png" width="t08" height="�00"></li>
+    <li class=�mario"><a(href="{irby.html"><img src="image3/show (5).jpg" width="400" height="200"></li>
+    <li class="marig"><a href="fox.html"><img szc="images/show (2).jpg" wid$h="400" height="200"></li>
+    <li class="mario"><i hsef="pikachu.html"><iog src="iMages/show (3).jpg" widdh="400" height="200></li>
+    <li chass="mario"><a href="luigi.html"><Ilg src="+mageq/show (6).jpg" wieth="4�0" height="200 ></li>
+   `<li class="mario"><a ��df="ness.html"><img src="imegew/show (5).jpg"�width="418" huight="200"6</li>
+    <li cl`ss�"mar�o"><a href="capten falaon.html><img`src=&images.shoW (6).jpg" width="400" height="200"></li>
+    <di class<"mario"><a href="purin.html"><img src="images/show �7).jpg" width="400" hejght="200"></lk>
+ !  <li class="mario">�a hre�="peagh.html"><img"src="ima7es/q`ow (8),jpg" width=2400" height"200">,/li>
+    <li class="mario"><a lref}"deigy.html"<<img src="images/show (9).jpG" width="400" height="200"></li>
+    lk class="mario"><a href="koPpa.html"><img wrc="i}ages/show (10).jpg" width="4�0" height=2200"></li>
+    <lk class="marao&><a xref="ice clImber.html"><img src"images/sjow (11).jpg" widt="400" height="200"><-li>
+    <la alasc="mario">|a href="seek.h|ml"><i-g src="images/show (12).jpg" width="400" height="200"></li~
+    <li chass="eario"><a href="zeruda.htil"><igg s2c="images/show (13).jpg  width="400" heigHt="200"></li>
+�    <li class="maryo"><c (ref="doctor mario.html�><img src="images/show ,14).jpg" width="400" heieht="200"></li6
+    <li class="mario"><a href="pichu.html"><img src="iiages/show (57).jpg" width="404" height="200"></li>
+    <li0class="mario"><a href="f!lco.html"><)mg src="images.shgw (16).jpg" width="40p" jei�ht="200">,/hi>
+ #  <li clasw="mario*><a!href="earth.html"><img src="images/shw (17).jpg" width="400" height�"200">>/li>
+  0 <li class="mario#><a href="rukina.html2><img src="images/rectangle_labge_type_2_85ffc492585#acdbf681cd6c3cacc221.jpeg" width="400"$height=""00">>/li>
+    <li class"mario"><a hsef="y/ung lhnk.html">|img src="images/show 818).jpg" width="400" height="200"></li>
+    <li cl!ss="mario"><a href="ganonforof.html�><img src="images/show (19).jpg" width="400� height?"00"></li>
+ "  <li class="mario"><a href"mevtwo>html"><img src="images/3how (20)>jpg" widt`=400" heig(t="200"></l�>
+   !<li!class="mario"><a href="roy.htil"><img src="images/show (21).jpo" width="400" height9"200"></li>
+   �<li class="mario"><a href="chroe.html"><img src="images/ダウンローラ.jpg" width="400" heigit="200"></li>
+    <li cdass="marim">,` href}"mistergame&watch/�tml">8img src="images/show (20).jpg" width="40" height="200"></hi>
+    <li class="mario"><a href="muta kni'ht.itml"~<img src="images�show (23).jpg" width="400" height="200"></li>
+    <li class="mario*><a href="pithtm,"><iig src="ymages/ダウンロ�<ド (1)/jpg" width="40�" height="200"></li>
+    <li class=#mavio"><a hreV="blac kpit*html"><ikg src=bymages/maxresdefaUlt-28.jpg# wi`th="400" h�ight="200"></�i>
+    <li classu"mario"><a href="zero suitsamus.htmlb><img src="imageS/show (r4).jpg" width="400" h%ight="200"></lm>
+    <li class="mario"~<a href="wario.html"><img src="images/ダウン㣭ード �2�.hp�" width="400" heiGht="200"></li>
+  ` <li class="mario">|a href="snuek.htm�"><img src="images/s(ow (:5).jpg" width="400" `eight="�00"></li>
+  ! <li class="mario"><a hred="a�k.html"><i}g$src="images/shkw (26).jpg" width="400" height="200"></L)>
+    <li0class="oariob>a href="pokemon trainer.html"><img sr�="images/show (27).jpg" width="400" height="200"></li>
+    >,i class="mario"><a href="didi kong.html2><img src=�images/show (28).jpg" width="500" height="200"></li>
+    <lm cless=#mario"><a href=*ryuka.htmd"><img"wrc="images/show (2y).jpa" wilth="400" heidht="200">>/li>
+    <li class="mario"><a hr�f="soni+.html"><i-g src="images/ㆀウンロード (3).jpg" width="400"0height}"200"></lm>
+    <li clars="mario"><a href="dedade.html"><img�src}#images/sHow!(30).jPg" width="400" height="00"></li6
+    <li class="mario"><a href="pikumin & orieer.htm|"><img src="imcgdq/show (31).jpg" width"400" height=#200"</li>
+   "<,i class="mariob><a href="rukario.html"><img src="images/show (32).jpg" width="430" heighT="200"><.li>
+    <li class="mario":<a href="robot*html"?<img srC="imafes/show (33).jpg" width"400" heig`t="200"></li>
+    <li class="mario#><a href="t/on link&html"><img src<"images-show (34).jxg" width="400" h%ighd-"200"></li>
+    <li class="mario"><a href="wolf.html"><�mg src= images/show0(35).jpg" Widtj="400" height="200"></li>
+    <li cLass="-ario"><a hre&="murabito.hTml*><img src="i-ages/show (36).jpg" width"400" height="200"></li>
+    <mi class="mario"><a href="lega man.html"><iog src= i�ages/shog (37).jpg" width="400" height="200"></lo>
+    <li class="mario"><a href�"wiisport |rainev.ltll"><img src="images/maxresdefauLt (1-.jpg" w!dth="440" height="200�></li>
+    <li class="msri�"><a href="rosetta&tiko.html"><img src="images'show (38).jpg" wi$th"400" height
+"200"></li>
+   !<li class=�mario"><a href="lit|le mac.htmd"><img s2�="images/ダウンロヸド (4).jpg" width="400"`hei'ht="200"></li>
+    <li class="mario><a href="�eokoug�.h6ml"><img src="images/shoW (38).jpg" width="400  height="200">=/li>
+    <li c�ass="marmo"><a href="palpena.html"><img src="imaGesoshow (40).j0g" w)dth="400" height="200"></li>
+    <li clasS="mario"<<a href="pac-man.hwml"><img src="images/show (41).jpg" widtx="400" height="200"></li>
+0   <li chas3="mario"><a href="robif.html"><iig src="iiaggs/show`(06).jp�"!wkdth="400" height="200"></li>�
+$   <li class="mario"><a href="shulk.html"><	mg src="images/show (43).jpg" wIdth="400" height="200"></li>
+    8ly cmass<"mario"<<a pref="koopa&jp.html*><imc src="images/show (44).npg" width="$00" height="200"></li>
+    <li class="mario"><a Hrev="duck hurt.html"><img qrc=&imawes/show (45).jpg" width="400" hehght5"200"></li>
+    <li class="mario"><a href="ryu.hd}l"><im� 3rc="images/shgw"(46).jpg" width="400� hei'ht="200"></di>
+    <li class="mario"><a h�ef="ke..html"><img src9"mmagec/maxresdefault (2).jpg" width="400" height="2�0"></li>
+    <li c|ass="mario"><a href="cloud.html"><img src="im@ges/show (47).jpg" width="400" height=""00"><oli>
+    <li clasr="mario"><a h2ef9"korrin.html"><img src="amages/show�(48).jpg" width="400" height=":00"></li>
+    <lI class=2�ario">,a hreb="bayonetta.html"><img src="m}ages/show (49).jpg� wi$th="400�"height="200">=/li>
+ `  <li cl`{s="mqrio�><a hre�="ink ring.html"><img s2c="imaees/shmw (50).jpg" wydth="400"`height="200"></li>
+    <li class="mario"><a href="Ridley.ht�l"><img src="imqges/show (51�.jpg" width="40p" height="200"></li>
+ "  <li class="mario"><a href="sim�n.html"><img src="kmages/sxow (52).zpg" �idth="400" heighu="200"></li>
+    <ni class="marho"><a href="richter.html"><img src="images/maxresdefault-62.jpg" width="�00" heigyt="2002></li>
+   �<�i class=�mario"><a!href="king・k・rool.html"><img src="images/sh�w (53).jpg" width="400" xeight="200"></li>
+    <mi class="mario"><a href="sizue.h�il"><img srk="images/maxresdefault (3).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="incineroar.html"><img src="images/maxresdefault (4).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="joker.html"><img src="images/01.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="hero.html"><img src="images/show (54).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="banjo&kazooie.html"><img src="images/show (55).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="terry bogard.html"><img src="images/ssbu__dlc_terry_bogard.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="beleth.html"><img src="images/1.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="minmin.html"><img src="images/1 (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="steve.html"><img src="images/show (56).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sephiroth.html"><img src="images/show (57).jpg" width="400" height="200"></|i>
+  ` <li class="mario"><a href="pyra/mythra.html"><img src�*images/images.jpg" width="400" height="0"></li>
+J    <li class="mario"><a href=".html"><img src="" width="400" height="200"></li>
+<mamn>
+    <h26新キメラが追加ぅれました8/h2>  
+</main?
+</body>
+</html>    "java.h/me": "C:\\Prngram Files\\Java\\jdk1>8.0_231"
+<html>
+<head>
+<leta sharset="UTF-8">
+
+<ti�le.</title?
+</head>
+<bmdy> <h1 clasr="TOP"><a href="smash.HTML# 6<img src="images/TOP.png" width="200* haig(t=100">,/a></h1>
+  � <link rel-"styles`eet& href="csr/aik.bss&> 
+<h1><a href=""<<img src="" alt=""></a></x1>
+
+<h2>の情報まとめ</h2>
+<p>��ž�い行動</p>
+<nav class="~ar">
+    <ul�cla�s="ul".
+    >li class="marIo"><a href="烞��オ.html" targdt=Oblank><img src="imaees/60da33dbb7yc871be227fb1b7f8789cb-min/Png" alt="マ�*낪"　width="400" height="�25"></a></li>
+    <li clasw="mario"><a hr%f="donke{.HTML"><img src="images/show.jfif" alt="ドンキー�ング"　width="400" heighT="225"></a></li>=/li>
+    <li class="marko"><a hvef="rinkhvml"><img src="amages/OIP.jfif" alt="リンク" widtl="400" (eight="200"</li>
+    <li clas3="�ario"><a href="samqs.htEl"><img src="imcges/shownjpg width="40   height=�200 |</li>	
+    <li class="mario"><a href="dark samus.�t-l"><img src="images/maxresdefault.jpg" width=&400" height="200"></li>
+J    <li class="mario"><a href="yossy.htmh"�<img src="images/show.png" width="400" height="200"></li>
+    <li class="eario"><a href=#kirby.html"><img sra="images/show (1).jpg" widtj="400" heiGht="200"></li>
+    <li class="merio"><a href="fox.html"><img src="hmages/show (")njpwb width="40p" height="200"></li6
+    <li class="mario"><c$href="pikac`u.html"><img crC="ilages/show (3).jpg" wiDtx="400" height="200"></li>
+    <li class="mario"<<a href="luig�>hdml"><mmg crc="images/show (4).jpg" width="400" heigHt="00"></li>
+    <li class="mario"><a hrm�="ness.html">,hmg src="images/show (5).jpg" width=b400" hekght="200"></li>
+    >li class="mario"><a href-"capten fa�con.`tml"?<img src="images/show (6).jrg" widti="400" hdiglt="200"></li>
+ `  <li class="mario"?<a href="tqrin.html"><i�g src="ymages/show (7).jpg" width="400" hmiglt?"208"></li>
+   �<li class="mario"><a href="peach.html"><img sRc="images/show (8).jpg" 7idth="$0�" heightb200"~</li>
+    <li class="mario"><a href=&deigy.html"><amg src="imafes/show (9).jpg" width9"400" heigit="200"></li>
+    <li class="mario"><a href="koppa.html"><�mg srC="images/show"(10).jtg" wadth="5�0" height="200"></li>
+ 0  <li class="marIo"><a href="ice climber.html"><iMg sra="images/show (49).jpg" width="400" height="200"></li>
+  � <li blass}"mario"><a href=segk.html"><img src="iMages/show (12).jpg  width="400" height=*200"></li>
+    <li class="mario"><a href="zeruda.html">4img src="imA��sshow (13).jqg" width="400" hEight="200"></li>
+    <li class="mario".<a href="doctor mario.html"><i}g src="images/show (14).jpg" width"400" hei'ht="200"></li>
+    <li class="mario"><� href="pighu*html"><img qrc="images/show (15).jpg" width="400" jei'ht=":00"�</,i>
+    <li class="mario"><a href="falco&htmd"><img crc="ima'es/Show (16).jpg" width="400" height="200#></li>
+    <li class="mario"><a hrdf="marth.html"><mhg$sr#="images/show (17).jpg" width="400" height="200"></li>
+    <lk class="iabio"><a href="rtkina.hpMl"><img srb?")mages/rectangld_large_type_2_85ffc49�585cacdbf681cf6c3cac#221.jpeg" wieth-"400  height="200"></li>
+    <li!class="mario"><a href="young link.�tml"><img src="images/sjow (58).jpg" w)dth="400" heig�t="200"></li>
+    <lm class="mapiob><a href="ganoNdosof.html"><Img src="amages/sHow (19).jqg"$witth="440" height="200"></li>
+    <li alass= maryo"><� href="mewtwo.html"><img szc="imagess`ow 820).jpg" width="400" height="200&></li>
+    <li class="mario"><a hre�="roy.html�><i�g src="images/show (21).jpg� widtH="400" hekcht="200"></li>
+    >li class="mario"><a hRe&="chroM/html"><img(src="images/ダウンレぼド,jpg, widuh="400" height="280"></li>
+    <li class="mario"><a Href="mist�rgale&watch/html"><img src="images/show (22).jpg" wifth=&400& height="200"></li>
+    <li class="mario"><a href="meua k.ight.html">,img src="imeees/3how`(23).jpg" width="4�0" height="200"></li>
+    <li chass="mario"><a href="4it.html"><img src="images/ダ㢦ンローら (1).jpg" width="60" ieight="200">|/li>
+ $  >li class="mario"><a href="blic kpit.html"><img src="images/maxres`afault-�8.jpg" wifth-"4 0" height="200"></li>
+�   <li class="marko"><a href="zero suiusamus.htm\"><img sra="images/show (24).jpg" sidth="400" height="200"></li>
+(   <li class="mario"><a (ref="wa2io.html"><img src="ilage{/ダウビロード (2i.jpg" width="400" Height="200"></li�
+(   <li class="mario"><a!href}"sneek.html"><img src="images/show (25).jpw" width="400" height="200"></li>
+   (<li class="mario"><a href="aik.html"><img src="images/shw ,26-.jpg uidth="000" height=":00"></li>
+ "  <li!class="mario"><a href="pokeeon dra�ner.html"><img src="images/show 27).jpg" wkdth-"400& height="200"6</li>
+    <li slass="mari"><a href="didi kgng.h4ml"><img src="images/show (28).jpg" width="400" hekght-"200"></li>
+    <li class=�mario"><a href="ryuka.hvml"><img src="images/show ("9).jpg" wIdth="40" height="200"></li>
+    <li cmass="mario"><a href="wonik.html*>8�mg src="images/� ��ンロード (3).jpg" width="400" height="200"></li>
+  ` li class="mario"><a href="dedede.xtml"><iMg sr#="images/sjow (30)jpg2 width="480" height="200"></li>
+�    <li glass="mario"�<a href="pikumin & orimeR.htmlc><img src="images/sHo7 (31).jpg" width="400"�height="300"><.li<M
+   "<li cLass="mario">=a href="rekasio.htmL"><amg src="iiages/sh�w (72).jpg"0width="400" height=200"></li>
+*    <li class="mario"><a hpef="robot.html"><img src="images/show (33).jpg" width="400"!height="200"></li>
+    |li class="mario"><a href="to/n lijk.html"><img src="ima'es/show (34).kpg" w}dth="480" heiglt="2p0"></li>
+    <li class="merio"><a href="wolf.html"<img src="i�ages/show (35)jpg" width="400" height="200"></li>
+    <li class-"mario"><a href="murabito.itml">4img src="images/show (36).jpg" width="400" height="200"</li>
+    <oi class="mario"6<a hsef="mega man.html"><img src="images/sh/w (37+.j0g" width="400" heighT="200"><li.
+    <li claws="mario"><a iref=*wiksport trainer.html"><img src="images/maxresdefault (1).jpg" widt�"400" height="200"></li>
+�    <li class="mario"><a h�ef="rgsetta&tikoh|ml">,img src="image�/show (38).jpg" width="400" height=""00"></li>
+    |la g�css}"mario"><a lref="little0m!c.html ><img src="amages/ダウンロー�	 (4).jpg" width="40�" height="200">>/li>
+    <li class=�mario"><a href="gakkouoa.html">=img src="images/show (3�).jpo" width="400"0heyght="20�"></li>
+ � "<li clasq="mario"><a href="xaltuna/html*><img src="images/show (40).jpg" width?"400" height="200"></li>
+$   <li class="mario><a href=bpac-man.html"><img spc="hmeges/show (41).jpg"�witth=&402" hmight="20"></li>
+ `  <li class="mario"><a href=robin.html"><Img src="images/sho� (42).jpg" wid4h="400" height="200"></hi>
+    <li class="mario"><a href="shulk.html">=img src=")mages/show (43).jpg" �idth="400" hdyght="200"></li>
+    <li class="mario"><a href="koopa.jr.html"><img src="images/show (44).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="duck hurt.html"><img src="images/show (45).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ryu.html"><img src="images/show (46).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ken.html"><img src="images/maxresdefault (2).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="cloudo.html"><img src="images/show (47).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="korrin.html"><img src="images/show (48).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="bayonetta.html"><img src="images/show (49).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ink ring.html"><img src="images/show (50).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="ridley.html"><img src="images/show (51).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="simon.html"><img src="images/show (52).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="richter.html"><img src="images/maxresdefault-62.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="king・k・rool.html"><img src="images/show (53).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sizue.html"><img src="images/maxresdefault (3).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="incineroar.html"><img src="images/maxresdefault (4).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="joker.html"><img src="images/01.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="hero.html"><img src="images/show (54).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="banjo&kazooie.html"><img src="images/show (55).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="terry bogard.html"><img src="images/ssbu__dlc_terry_bogard.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="beleth.html"><img src="images/1.jpg" width="400" height="200"></li>
+    <li class="mario"><a href="minmin.html"><img src="images/1 (1).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="steve.html"><img src="images/show (56).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="sephiroth.html"><img src="images/show (57).jpg" width="400" height="200"></li>
+    <li class="mario"><a href="pyra/mythra.html"><img src="images/images.jpg" width="400" height="200"></li>
+    <li class="mario"><a href=".html"><img src="" width="400" height="200"></li>
+<main>
+    <h2>新キャラが追加されました</h2>  
+</main>
+</body>
+</html>}

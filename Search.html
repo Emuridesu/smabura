@@ -1,0 +1,119 @@
+<?php
+//データベース情報の指定
+$db['dbname'] = "◯◯◯◯";  // データベース名
+$db['user'] = "◯◯◯◯";  // ユーザー名
+$db['pass'] = "◯◯◯◯";  // ユーザー名のパスワード
+$db['host'] = "◯◯◯◯";  // DBサーバのURL
+ 
+//エラーメッセージの初期化
+$errorMessage = "";
+//フラグの初期化
+$o = false;
+ 
+//検索ボタンが押された時の処理
+if (isset($_POST["search"])) {
+    //入力チェック
+    if (empty($_POST["textbox"])) {
+        $errorMessage = '未入力です。';
+    }
+ 
+    if (!empty($_POST["textbox"])) {
+        $o = true;
+        //入力した文字を変数に格納
+        $textbox = $_POST["textbox"];
+        $textboxs = explode(" ",mb_convert_kana($textbox,'s'));
+        $operator_in = $_POST["operator_in"];
+        $operator_like = $_POST["operator_like"];
+        $selectbox = $_POST["selectbox"];
+ 
+        //dsnを作成
+        $dsn = sprintf('mysql:host=%s; dbname=%s; charset=utf8', $db['host'], $db['dbname']); 
+        
+        try {
+            //PDOを使ってMySQLに接続
+            $pdo = new PDO($dsn, $db['user'], $db['pass'], array(PDO::ATTR_ERRMODE=>PDO::ERRMODE_EXCEPTION));
+ 
+            //SQLを作成
+            if($operator_like == 'like'){
+                if($operator_in == 'in'){
+                    foreach($textboxs as $textbox){
+                        $textboxCondition[] = "(".$selectbox." LIKE ?)";
+                        $values[] = '%'.preg_replace('/(?=[!_%])/', '', $textbox) . '%';
+                    }
+                    $textboxCondition = implode(' OR ', $textboxCondition);
+                }else{
+                    $textboxCondition[] = "(".$selectbox." LIKE ?)";
+                    $values[] = '%'.preg_replace('/(?=[!_%])/', '', $textbox) . '%';
+                    $textboxCondition = implode(' OR ', $textboxCondition);
+                }
+                $sql = "SELECT * FROM t_product left outer join t_category on t_product.t_product_category_id = t_category.t_category_id WHERE $textboxCondition";
+            }else{
+                if($operator_in =='in'){
+                    $place_holders = implode(',', array_fill(0, count($textboxs), '?'));
+                    $sql = "SELECT * FROM t_product left outer join t_category on t_product.t_product_category_id = t_category.t_category_id WHERE $selectbox IN ($place_holders)";
+                }else{
+                    $sql = "SELECT * FROM t_product left outer join t_category on t_product.t_product_category_id = t_category.t_category_id WHERE $selectbox = ?";
+                }
+            }
+ 
+            $stmt = $pdo->prepare($sql);
+            if($operator_like == 'like'){
+                $stmt->execute($values);
+            }else{
+                if($operator_in =='in'){
+                    $stmt->execute($textboxs);
+                }else{
+                    $stmt->execute(array($textbox));
+                }
+            }
+        } catch (PDOException $e) {
+            $errorMessage = 'データベースエラー';
+        }}
+?>
+ 
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>検索</title>
+    </head>
+    <body>
+        <h1>出力画面</h1>
+        <form id="searchForm" name="searchForm" action="" method="POST">        
+            <p>検索フォーム</p>
+            <div><font color="#ff0000"><?php echo htmlspecialchars($errorMessage, ENT_QUOTES); ?></font></div>
+            <div><input type="checkbox" name="operator_like" value="like" <?php if($_POST["operator_like"]=="like"){echo "checked";} ?> >あいまい検索</div>
+            <div><input type="checkbox" name="operator_in" value="in" <?php if($_POST["operator_in"]=="in"){echo "checked";} ?> >複数検索(スペース区切り)</div>
+            <div><select name="selectbox">
+                    <option value="t_product_name" <?php if($_POST["selectbox"]=="t_product_name"){echo "selected";} ?>>商品名</option>
+                    <option value="t_category_name"<?php if($_POST["selectbox"]=="t_category_name"){echo "selected";} ?>>カテゴリ名</option>
+                    </select>
+                    <input type="text" id="textbox" name="textbox" placeholder="検索したい文字を入力" value="<?php if (!empty($_POST["textbox"])) {echo htmlspecialchars($_POST["textbox"], ENT_QUOTES);} ?>">
+                    <input type="submit" id="search" name="search" value="検索">
+            </div>    
+        </form>
+        <div>
+        <?php
+            if($stmt){
+                $ct = 0;
+                echo '<p>検索結果<br>';
+                echo '- - - - - - - - - - - - - - - - - - - - - - - - </p>';
+                foreach($stmt as $row){
+                    if($ct == 0){
+                    }
+                    echo '<div>商品ID：'.$row['t_product_id'].'</div>';
+                    echo '<div>商品名：'.$row['t_product_name'].'</div>';
+                    echo '<div>価格：'.$row['t_product_price'].'</div>';
+                    echo '<div>カテゴリ：'.$row['t_category_name'].'</div>';                                
+                    echo '<p>- - - - - - - - - - - - - - - - - - - - - - - - </p>';
+                    $ct++;
+                }
+                if($ct ==0){
+                    echo '<div>該当するデータはありません</div>'; 
+                }
+            }else{
+            }
+        ?>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,110 @@
+@charset "charalank";
+
+/*全てのページに適用される*/
+html{
+    font-family:  sans-serif;
+}
+html*{
+      box-sizing: border-box;
+}
+
+body{
+     background-color: #000000;
+     margin: 0%;
+     overflow-x: hidden;
+     background-image: url(../images/1514251500800156.jfif);
+     background-position: bottom ;
+ background-attachment: fixed;
+ background-size: cover;
+     
+       
+}
+.rank{
+width: 100%;
+}
+.TOP{
+  position:fixed;
+  margin: 0%;
+ 
+  display:inline-block;
+  z-index: 500;} 
+
+.S{
+    position: relative;
+    bottom: 0cm;
+    width: 100%;
+
+}
+
+.lank{
+    position:relative;
+    bottom: 30;
+
+}
+.setumei1{
+  position: relative;
+  font-size: 100;
+}
+.setumei2{
+  font-size: 40;
+    position: relative;
+    bottom: 1;
+}
+/* 画面外にいる状態 */
+.fade1in {
+	opacity : 0.1;
+	transform : translate(0, 100px);
+	transition : all 1000ms;
+	}
+/* 画面内に入った状態 */
+.fade1in.is-show
+ {
+	opacity : 1;
+  transform : translate(0, 0);
+}
+
+  /* 画面外にいる状態 */
+  .fade2in {
+    opacity : 0.1;
+    transform : translate(0, 300px);
+    transition : all 1000ms;
+    }
+  
+  /* 画面内に入った状態 */
+  .fade2in.is-show
+ {
+    opacity : 1;
+    transform : translate(0, 0);
+  }
+  
+  /* 画面外にいる状態 */
+  .fade3in {
+    opacity : 0.1;
+    transform : translate(0, 500px);
+    transition : all 1500ms;
+    }
+  
+  /* 画面内に入った状態 */
+  .fade3in.is-show {
+    opacity : 1;
+    transform : translate(0, 0);
+  }
+
+  
+  .video-container {
+    position: relative;
+    
+  }
+  
+  .video-sidebar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 30%;
+    height: 100%;
+ 
+  }
+  
+  video {
+    width: 100%;
+  }

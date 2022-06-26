@@ -1,0 +1,13 @@
+@charset "beleth";
+.beleth{
+    text-align: center;
+}
+.mario{
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+}
+.mario:hover{
+    opacity:0.75
+
+}

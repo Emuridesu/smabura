@@ -1,0 +1,16 @@
+@charset "bayonetta";
+
+.mario{
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+}
+.mario:hover{
+    opacity:0.75
+
+}
+.bayonetta{
+    text-align: center;  
+   
+
+}

@@ -1,0 +1,106 @@
+.body {
+  zoom: 1;
+  -moz-transform: scale(3);
+  background-image: url(../images/zeno2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom ;
+ background-attachment: fixed;
+  background-color:rgba(0, 0, 0, 0.8);
+  background-blend-mode:darken;
+}
+
+
+.mario:hover{
+    opacity: 0.75;
+    
+    }
+    
+    .mario{
+        display: inline;
+       list-style-type: none;
+       padding-right: 20px;
+    }
+       /* 画面外にいる状態 */
+.fade1in {
+	opacity : 0.1;
+	transform : translate(0, 100px);
+	transition : all 1000ms;
+	}
+
+/* 画面内に入った状態 */
+.fade1in.is-show
+ {
+	opacity : 1;
+  transform : translate(0, 0);
+}
+
+  /* 画面外にいる状態 */
+  .fade2in {
+    opacity : 0.1;
+    transform : translate(0, 300px);
+    transition : all 1000ms;
+    }
+  
+  /* 画面内に入った状態 */
+  .fade2in.is-show
+ {
+    opacity : 1;
+    transform : translate(0, 0);
+  }
+  
+  /* 画面外にいる状態 */
+  .fade3in {
+    opacity : 0.1;
+    transform : translate(0, 500px);
+    transition : all 1500ms;
+    }
+  
+  /* 画面内に入った状態 */
+  .fade3in.is-show {
+    opacity : 1;
+    transform : translate(0, 0);
+  }
+  .fade-in {
+  opacity: 0;
+  transition-duration: 500ms;
+  transition-property: opacity, transform;
+}                 
+ .TOP{
+  position:fixed;
+  margin: 0%;
+top: 0%;
+left: 0;
+  display:inline-block;
+  z-index: 500;
+} 
+    
+
+
+.black1{
+  font-size: 100;
+  margin-left: 10%;
+  color: aliceblue;
+}
+.black2{
+  font-size: 40;
+  margin-left: 10%;
+  color: aliceblue;
+  height: 200;
+}
+
+.opa1{
+  font-size: 100;
+  color: aliceblue;
+  text-align:right;
+margin-right: 10%;
+
+    }
+
+.opa2{
+  font-size: 40;
+      color: aliceblue;
+      margin-right: 23%;
+ text-align:right;
+ height: 200;
+}

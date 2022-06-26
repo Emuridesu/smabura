@@ -1,0 +1,19 @@
+@charset "banzyo";
+.mario:hover{
+    opacity: 0.75;
+    list-style: none;
+}
+.mario{
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+}
+
+.TOP{	
+    position:relative;
+       bottom: 29cm;
+       right: 0.2cm;
+       margin:0;
+       width: 230;
+       height:  230;
+       display:inline-block;}

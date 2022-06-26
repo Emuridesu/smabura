@@ -1,0 +1,125 @@
+.body {
+  zoom: 1;
+  background-image: url(../images/VS.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom ;
+ background-attachment: fixed;
+  background-color:rgba(0, 0, 0, 0.6);
+  background-blend-mode:darken;
+
+}
+.mario:hover{
+    opacity: 0.75;
+    
+    }
+   
+       /* 画面外にいる状態 */
+.fade1in {
+	opacity : 0.1;
+	transform : translate(0, 100px);
+	transition : all 1000ms;
+	}
+
+/* 画面内に入った状態 */
+.fade1in.is-show
+ {
+	opacity : 1;
+  transform : translate(0, 0);
+}
+
+  /* 画面外にいる状態 */
+  .fade2in {
+    opacity : 0.1;
+    transform : translate(0, 100px);
+    transition : all 1000ms;
+    }
+  
+  /* 画面内に入った状態 */
+  .fade2in.is-show
+ {
+    opacity : 1;
+    transform : translate(0, 0);
+  }
+  
+  /* 画面外にいる状態 */
+  .fade3in {
+    opacity : 0.1;
+    transform : translate(0, 500px);
+    transition : all 1500ms;
+    }
+  
+  /* 画面内に入った状態 */
+  .fade3in.is-show {
+    opacity : 1;
+    transform : translate(0, 0);
+  }
+  .fade-in {
+  opacity: 0;
+  transition-duration: 500ms;
+  transition-property: opacity, transform;
+}               
+   .TOP{
+  position:fixed;
+  margin: 0%;
+top: 0%;
+left: 0;
+  display:inline-block;
+  z-index: 500;
+} 
+.cuugo{
+position: relative;
+display: inline-block;
+left:1000 ;
+}
+.tuyotuyo1{
+ font-size: 100;
+  color: azure;
+  position: relative;
+  left:1150 ;
+}
+.tuyotuyo2{
+  font-size: 40;
+  color: azure;
+  position: relative;
+
+  left:900 ;
+}
+.tuyotuyo3{
+  font-size: 100;
+   color: azure;
+   position: relative;
+   left: 100 ;
+ }
+ .tuyotuyo4{
+  font-size: 40 ;
+   color: azure;
+   position: relative;
+  ;
+ }
+ .tuyotuyo5{
+  font-size: 40 ;
+   color: azure;
+   position: relative;
+   left:1000 ;
+  ;
+ }
+ .tuyotuyo6{
+  font-size: 40 ;
+   color: azure;
+   position: relative;
+   left:1000 ;
+  ;
+ }
+
+ .nav li{
+
+  list-style-type: none;
+  padding-right: 20px;
+
+}
+.mario{
+  display: inline;
+ list-style-type: none;
+ padding-right: 20px;
+}

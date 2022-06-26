@@ -1,0 +1,64 @@
+.mario:hover{
+    opacity: 0.75;
+    
+    }
+    
+    .mario{
+        display: inline;
+       list-style-type: none;
+       padding-right: 20px;
+    }
+       /* 画面外にいる状態 */
+.fade1in {
+	opacity : 0.1;
+	transform : translate(0, 100px);
+	transition : all 1000ms;
+	}
+
+/* 画面内に入った状態 */
+.fade1in.is-show
+ {
+	opacity : 1;
+  transform : translate(0, 0);
+}
+
+  /* 画面外にいる状態 */
+  .fade2in {
+    opacity : 0.1;
+    transform : translate(0, 300px);
+    transition : all 1000ms;
+    }
+  
+  /* 画面内に入った状態 */
+  .fade2in.is-show
+ {
+    opacity : 1;
+    transform : translate(0, 0);
+  }
+  
+  /* 画面外にいる状態 */
+  .fade3in {
+    opacity : 0.1;
+    transform : translate(0, 500px);
+    transition : all 1500ms;
+    }
+  
+  /* 画面内に入った状態 */
+  .fade3in.is-show {
+        opacity : 1;
+        transform : translate(0, 0);
+      }
+  .fade-in {
+  opacity: 0;
+  transition-duration: 500ms;
+  transition-property: opacity, transform;
+}                      .TOP{
+        position:fixed;
+        margin: 0%;
+      top: 0%;
+      left: 0;
+        display:inline-block;
+        z-index: 500;
+      }
+
+    

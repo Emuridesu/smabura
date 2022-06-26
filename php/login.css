@@ -1,0 +1,25 @@
+.h1{
+  text-align: center;
+  padding-left: 1cm;
+
+}
+.color{
+
+    color: #fff;
+    background-color: #eb6100;
+}
+.p{
+    
+    position: relative;
+    text-align: center;
+    padding-left: 1cm;
+    
+}
+.id{
+    text-align: center;
+  padding-left: 13cm;
+}
+.label{
+   text-align: center;
+   padding-left: 13px;
+}

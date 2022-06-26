@@ -1,0 +1,26 @@
+@charset "aik";
+.aik{
+    text-align: center;  
+   
+}
+
+.mario:hover{
+opacity: 0.75;
+
+}
+
+.mario{
+    display: inline;
+   list-style-type: none;
+   padding-right: 20px;
+}
+    .TOP{
+        position:fixed;
+        margin: 0%;
+      top: 0%;
+      left: 0;
+        display:inline-block;
+        z-index: 500;
+      }
+
+
